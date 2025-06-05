@@ -2,7 +2,7 @@
   <img src="gitimage.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Joshua Peter</h1>
+<h1 align="center">Hi 👋, I'm Joshua Gigo Peter</h1>
 <h3 align="center">Aspiring Python Developer | Creator | Problem Solver</h3>
 
 ---
@@ -12,7 +12,7 @@
 - 🧠 Currently learning: **Python**, **Object-Oriented Programming**, **Data Structures**, and **Game Development** with **Godot**
 - 🔭 Building: A **Drowsiness Detection System** using `OpenCV`, `dlib`, and `Twilio`
 - 💡 Interested in: AI, automation, game development, and full-stack projects
-- ✉️ Reach me at: [youremail@example.com](mailto:youremail@example.com)
+- ✉️ Reach me at: [joshuagigofnaf@gmail.com]
 
 ---
 
