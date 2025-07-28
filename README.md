@@ -23,7 +23,7 @@ Hi! I'm a passionate developer from India who loves building intelligent systems
 ---
 
 <h3 align="center">🧰 Tech Toolbox</h3>
-
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,opencv,git,github,vscode,godot" />
 </p>
