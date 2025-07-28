@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/gitimage.jpg" alt="GitHub Banner" width="100%" />
+  <img src="gitimage.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">Joshua Gigo Peter</span></h1>
@@ -13,7 +13,7 @@
 
 Hi! I'm a passionate developer from India who loves building intelligent systems, experimenting with automation, and crafting immersive digital experiences through games and web apps.
 
-- 🏗 Currently Building: **Garden Of Memories** – a story-based game in **Godot 4**
+- 🏗 Currently Building: **Thou Art Everbloom** – a story-based game in **Godot 4**
 - 🌱 Learning: `OOP`, `Data Structures`, and **machine learning**
 - 🧪 Experimenting with: `Flask`, `OpenCV`, `Twilio`, and `YOLOv8`
 - 💬 Ask me about: `Python`, `AI Projects`, `Game Dev`, or `ML Model Visualization`
@@ -24,7 +24,7 @@ Hi! I'm a passionate developer from India who loves building intelligent systems
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,flask,opencv,git,github,vscode,godot" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,opencv,git,github,vscode,godot" />
 </p>
 
 ---
