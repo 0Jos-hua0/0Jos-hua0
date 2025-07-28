@@ -13,7 +13,8 @@
 
 Hi! I'm a passionate developer from India who loves building intelligent systems, experimenting with automation, and crafting immersive digital experiences through games and web apps.
 
-- 🏗 Currently Building: **Thou Art Everbloom** – a story-based game in **Godot 4**
+- 🏗 Currently Building: **Gen-Face-ID** – a facial recognition identity system using `Python` and `OpenCV`;  
+- 🎮 On the side, crafting **Thou Art Everbloom** – a story-driven game in `Godot 4` for fun and creative exploration.
 - 🌱 Learning: `OOP`, `Data Structures`, and **machine learning**
 - 🧪 Experimenting with: `Flask`, `OpenCV`, `Twilio`, and `YOLOv8`
 - 💬 Ask me about: `Python`, `AI Projects`, `Game Dev`, or `ML Model Visualization`
