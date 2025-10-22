@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitimage.jpg" alt="GitHub Banner" width="100%" />
+  <img src="assets/gitgif1.gif" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">Joshua Gigo Peter</span></h1>
@@ -58,10 +58,19 @@ Hi! I'm a passionate developer from India who loves building intelligent systems
 
 ---
 
+### 🎮 Game Lab
+
+> Currently prototyping a **Point-and-Click Web Game** — made in JavaScript or exported from Godot to HTML5! Here's a quick look:
+
+<p align="center">
+  <img src="assets/gitgif2.gif" alt="My Game Demo" width="80%"/>
+</p>
+---
+
 ### 📈 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Jos-hua0&show_icons=true&theme=radical" width="48%"/>
+C <img src="https://github-readme-stats.vercel.app/api?username=0Jos-hua0&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0Jos-hua0&theme=radical" width="48%"/>
 </p>
 
@@ -74,7 +83,7 @@ Hi! I'm a passionate developer from India who loves building intelligent systems
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-gigo-peter-261272274/" target="_blank">
+  <a href="httpsStorage:
   	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:joshuagigofnaf@gmail.com">
