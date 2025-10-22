@@ -57,11 +57,6 @@ Hi! I'm a passionate developer from India who loves building intelligent systems
 [🔗 GitHub Repo](https://github.com/0Jos-hua0/File_Management_System)
 
 ---
-
-### 🎮 Game Lab
-
-> Currently prototyping a **Point-and-Click Web Game** — made in JavaScript or exported from Godot to HTML5! Here's a quick look:
-
 <p align="center">
   <img src="assets/gitgif2.gif" alt="My Game Demo" width="80%"/>
 </p>
