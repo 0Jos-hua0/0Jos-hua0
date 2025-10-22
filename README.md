@@ -61,10 +61,6 @@ ML-powered analyzer that evaluates text emotions with high accuracy.
 A system to organize and manage digital files.
 🔗 GitHub Repo
 
-🎮 Game Lab
-
-Currently prototyping a Point-and-Click Web Game — made in JavaScript or exported from Godot to HTML5! Here's a quick look:
-
 <p align="center">
 <img src="assets/gitgif2.gif" alt="My Game Demo" width="80%"/>
 </p>
@@ -77,7 +73,7 @@ Currently prototyping a Point-and-Click Web Game — made in JavaScript or expor
 </p>
 
 <!-- FIXED PAC-MAN IMAGE URLS -->
-
+here
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
