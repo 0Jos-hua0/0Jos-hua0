@@ -32,33 +32,29 @@ Hi! I'm a passionate developer from India who loves building intelligent systems
 
 ### 🚀 Featured Projects
 
-#### 🛏️ Drowsiness Detection  
-> Real-time system to monitor eye aspect ratio and alert sleepy drivers.  
-[🔗 GitHub Repo](https://github.com/0Jos-hua0/Drowsiness-Detection)
-
-#### 🧠 Sentiment Analysis  
-> ML-powered analyzer that evaluates text emotions with high accuracy.  
-[🔗 GitHub Repo](https://github.com/0Jos-hua0/Sentiment_Analysis)
-
-#### 📊 ML Models Visualizer  
-> Web-based tool to visualize predictions of trained models interactively.  
-[🔗 GitHub Repo](https://github.com/0Jos-hua0/ML-Models-Visualizer)
+#### 🆔 GenFace-ID
+> A facial recognition identity system using Python and OpenCV.
+[🔗 GitHub Repo](https://github.com/0Jos-hua0/GenFace-ID)
 
 #### 🐾 Animal Detection System  
-> Uses YOLOv8 to detect animals and send email alerts with snapshots.  
+> Uses YOLOv8 to detect animals and send email alerts with snapshots.
 [🔗 GitHub Repo](https://github.com/0Jos-hua0/Animal_Detection_System)
 
-#### 🧾 Employee Management System  
-> A command-line app to manage employee records easily.  
-[🔗 GitHub Repo](https://github.com/0Jos-hua0/employee_management)
+#### 🤖 Model Context Protocol Server Guide
+> A guide for setting up a server for the Model Context Protocol (MCP), an open standard for AI models to interact with external tools and data.
+[🔗 GitHub Repo](https://github.com/0Jos-hua0/MCP-server-guide)
 
----
+#### 📈 Stock Price Prediction & Recommendation
+> Predicts stock prices using machine learning and provides recommendations.
+[🔗 GitHub Repo](https://github.com/0Jos-hua0/Stock-Price-Prediction-and-Reccommedation)
 
-### 🎮 Game Lab (Coming Soon...)
+#### 🧠 Sentiment Analysis  
+> ML-powered analyzer that evaluates text emotions with high accuracy.
+[🔗 GitHub Repo](https://github.com/0Jos-hua0/Sentiment_Analysis)
 
-> Currently prototyping a **Point-and-Click Web Game** — made in JavaScript or exported from Godot to HTML5!
-
-⏳ Stay tuned for an interactive game right here on this page!
+#### 📁 File Management System
+> A system to organize and manage digital files.
+[🔗 GitHub Repo](https://github.com/0Jos-hua0/File_Management_System)
 
 ---
 
@@ -72,16 +68,17 @@ Hi! I'm a passionate developer from India who loves building intelligent systems
 <p align="center">
   <img src="https://raw.githubusercontent.com/0Jos-hua0/0Jos-hua0/output/snake.svg" alt="Snake animation" />
 </p>
+
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-gigo-peter-261272274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:joshuagigofnaf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  	<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
