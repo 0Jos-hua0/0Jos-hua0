@@ -75,9 +75,9 @@ A system to organize and manage digital files.
 <!-- FIXED PAC-MAN IMAGE URLS -->
 here
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Jos-hua0/0Jos-hua0/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Jos-hua0/0Jos-hua0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0Jos-hua0/0Jos-hua0/output/pacman-contribution-graph.svg">
 </picture>
 
 🌐 Connect With Me
@@ -85,11 +85,11 @@ here
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-gigo-peter-261272274/" target="_blank">
 <!-- FIXED BROKEN GOOGLE SEARCH URL -->
-  	<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-4A90E2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26colorA%3D4A90E2%26colorB%3D0A66C2" alt="LinkedIn Badge"/>
+  	<img src="https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white&colorA=4A90E2&colorB=0A66C2" alt="LinkedIn Badge"/>
 </a>
   <a href="mailto:joshuagigofnaf@gmail.com">
 <!-- FIXED BROKEN GOOGLE SEARCH URL -->
-  	<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26colorA%3DEA4335%26colorB%3DB23121" alt="Gmail Badge"/>
+  	<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&colorA=EA4335&colorB=B23121" alt="Gmail Badge"/>
   </a>
 </p>
 
