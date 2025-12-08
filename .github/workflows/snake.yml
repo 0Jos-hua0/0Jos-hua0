@@ -18,28 +18,26 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create dist directory
         run: mkdir -p dist
 
-      - name: Move light mode image
-        run: mv pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
+      - name: Move images to dist
+        run: |
+          # Move files if they exist, ignoring errors if missing to allow debug
+          [ -f pacman-contribution-graph.svg ] && mv pacman-contribution-graph.svg dist/ || echo "Light graph not generated"
+          [ -f pacman-contribution-graph-dark.svg ] && mv pacman-contribution-graph-dark.svg dist/ || echo "Dark graph not generated"
 
-      - name: generate pacman-contribution-graph-dark.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gameTheme: github-dark
-
-      - name: Move dark mode image
-        run: mv pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
-
-
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
